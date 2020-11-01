@@ -9,6 +9,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "tedious": "^9.2.1"
     }
 }
